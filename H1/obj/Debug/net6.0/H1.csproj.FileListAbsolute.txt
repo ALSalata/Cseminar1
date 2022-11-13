@@ -1,0 +1,15 @@
+D:\Study\!GB\Разработчик\Home1\H1\bin\Debug\net6.0\H1.exe
+D:\Study\!GB\Разработчик\Home1\H1\bin\Debug\net6.0\H1.deps.json
+D:\Study\!GB\Разработчик\Home1\H1\bin\Debug\net6.0\H1.runtimeconfig.json
+D:\Study\!GB\Разработчик\Home1\H1\bin\Debug\net6.0\H1.dll
+D:\Study\!GB\Разработчик\Home1\H1\bin\Debug\net6.0\H1.pdb
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.csproj.AssemblyReference.cache
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.AssemblyInfoInputs.cache
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.AssemblyInfo.cs
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.csproj.CoreCompileInputs.cache
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.dll
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\refint\H1.dll
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.pdb
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\H1.genruntimeconfig.cache
+D:\Study\!GB\Разработчик\Home1\H1\obj\Debug\net6.0\ref\H1.dll
